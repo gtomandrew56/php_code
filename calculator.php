@@ -26,4 +26,5 @@
 	print"Equation :";
 		echo $num/$num1;
 	}
+	echo "gggg";
 ?>
